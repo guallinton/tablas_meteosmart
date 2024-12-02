@@ -1,0 +1,1001 @@
+id,fecha,origen,destino,cantidad_turistas,ciudad_id
+1,2024-04-27,México,Paysandú,417,6
+2,2024-08-13,Florianópolis,San José,178,18
+3,2023-12-12,Florianópolis,Rocha,243,6
+4,2024-06-08,La Plata,Colonia,130,9
+5,2024-04-05,La Plata,Canelones,479,18
+6,2024-02-08,Curitiba,Montevideo,284,19
+7,2024-06-08,Córdoba,Paysandú,138,9
+8,2024-03-09,Santa Fe,Paysandú,140,5
+9,2024-02-11,Rosario,Maldonado,127,8
+10,2024-01-27,Santiago,Lavalleja,217,5
+11,2024-04-10,Pelotas,Florida,137,13
+12,2023-12-27,Pelotas,Flores,438,2
+13,2024-10-03,Porto Alegre,Florida,158,6
+14,2023-12-02,Porto Alegre,Durazno,212,17
+15,2024-10-24,Pelotas,San José,187,13
+16,2024-10-02,Santiago,Rivera,20,15
+17,2024-08-05,Curitiba,Paysandú,281,12
+18,2024-04-14,Florianópolis,Salto,143,2
+19,2024-09-07,Porto Alegre,Río Negro,355,18
+20,2024-10-20,Porto Alegre,Rivera,160,8
+21,2024-06-29,Santa Fe,Paysandú,187,16
+22,2024-06-05,México,Rocha,204,9
+23,2024-02-05,Córdoba,Tacuarembó,4,12
+24,2023-12-18,Santa Fe,Colonia,249,17
+25,2024-03-16,México,Artigas,156,1
+26,2024-04-20,Buenos Aires,San José,152,5
+27,2024-07-05,Asunción,San José,180,3
+28,2024-09-20,Asunción,Salto,279,10
+29,2024-05-23,Rio Grande,Artigas,314,11
+30,2024-01-28,Florianópolis,Paysandú,488,9
+31,2024-08-17,La Plata,Canelones,244,16
+32,2024-09-07,Santa Fe,Colonia,308,17
+33,2024-05-21,Santiago,Rocha,136,16
+34,2024-07-18,La Plata,Treinta y Tres,154,4
+35,2024-02-18,Pelotas,Rivera,276,15
+36,2024-10-12,Córdoba,Soriano,67,2
+37,2024-04-07,Florianópolis,Salto,251,6
+38,2024-04-13,Asunción,Rivera,337,12
+39,2024-06-21,Santa Fe,Rocha,382,7
+40,2024-06-17,Curitiba,Cerro Largo,150,18
+41,2024-04-12,La Plata,Soriano,424,9
+42,2024-03-30,La Plata,Rivera,351,2
+43,2024-02-24,Santa Fe,Rocha,16,7
+44,2024-06-10,Rosario,Paysandú,281,13
+45,2024-07-03,Santiago,Maldonado,474,18
+46,2024-09-17,Asunción,Treinta y Tres,311,6
+47,2024-04-23,Florianópolis,Río Negro,171,16
+48,2024-02-10,Rio Grande,Cerro Largo,274,3
+49,2023-12-31,Córdoba,Tacuarembó,287,11
+50,2024-01-24,Curitiba,Río Negro,294,8
+51,2024-08-01,Porto Alegre,Maldonado,415,16
+52,2024-02-14,Asunción,San José,417,7
+53,2024-02-23,Pelotas,Canelones,373,3
+54,2024-05-22,Buenos Aires,Paysandú,129,5
+55,2024-11-01,La Plata,Soriano,409,19
+56,2024-09-12,Asunción,Tacuarembó,449,4
+57,2024-11-25,Rosario,Flores,368,14
+58,2024-11-23,Buenos Aires,Lavalleja,403,18
+59,2024-09-24,Buenos Aires,Rivera,200,9
+60,2024-05-13,Córdoba,Montevideo,20,7
+61,2024-03-21,México,Cerro Largo,348,17
+62,2024-11-15,Rio Grande,Canelones,415,19
+63,2024-11-28,Florianópolis,Salto,78,3
+64,2023-12-21,Curitiba,Río Negro,40,7
+65,2024-07-24,Porto Alegre,Colonia,67,4
+66,2024-01-31,Santa Fe,Canelones,78,14
+67,2024-04-02,Porto Alegre,Florida,259,12
+68,2024-09-28,Porto Alegre,Flores,191,17
+69,2024-07-05,Buenos Aires,Durazno,121,1
+70,2024-06-23,Pelotas,Rocha,302,13
+71,2024-03-25,Santiago,Canelones,496,14
+72,2024-04-28,Asunción,Rocha,465,13
+73,2024-03-15,Rosario,Durazno,76,19
+74,2024-01-21,Córdoba,Maldonado,321,3
+75,2024-01-23,México,Montevideo,153,4
+76,2024-01-30,Pelotas,Durazno,146,15
+77,2024-04-06,Santa Fe,Maldonado,342,8
+78,2024-02-09,Porto Alegre,Rivera,33,7
+79,2024-05-30,Rosario,Río Negro,30,3
+80,2023-12-11,Pelotas,Lavalleja,480,16
+81,2024-11-06,México,Canelones,431,19
+82,2024-08-16,Porto Alegre,Durazno,362,7
+83,2024-07-21,Córdoba,Colonia,304,13
+84,2024-02-11,Rosario,Rocha,426,11
+85,2024-03-19,Curitiba,Maldonado,224,13
+86,2024-03-09,Florianópolis,Canelones,129,19
+87,2024-09-07,Rio Grande,Treinta y Tres,342,1
+88,2024-05-18,Rosario,Paysandú,262,9
+89,2024-01-18,México,Montevideo,136,18
+90,2024-03-05,La Plata,Paysandú,312,4
+91,2024-09-19,Buenos Aires,Flores,153,13
+92,2024-05-18,Florianópolis,Florida,82,7
+93,2024-01-30,Rio Grande,Paysandú,167,5
+94,2024-02-18,Porto Alegre,Rocha,45,18
+95,2024-09-12,Asunción,Montevideo,89,3
+96,2024-08-29,Córdoba,Montevideo,285,2
+97,2024-09-10,Córdoba,Rivera,352,10
+98,2024-01-30,Buenos Aires,Tacuarembó,452,17
+99,2024-04-09,Santiago,Paysandú,486,19
+100,2024-05-29,Córdoba,Florida,166,3
+101,2023-12-08,La Plata,Tacuarembó,403,19
+102,2024-09-19,Florianópolis,Cerro Largo,444,14
+103,2024-04-22,Santiago,Artigas,394,17
+104,2024-08-12,Asunción,Montevideo,421,16
+105,2024-05-09,Curitiba,Florida,52,2
+106,2024-08-12,Córdoba,Maldonado,181,14
+107,2024-05-29,Buenos Aires,Colonia,412,1
+108,2024-09-13,Asunción,Flores,49,13
+109,2024-02-21,Santiago,Rocha,348,6
+110,2024-11-30,Rosario,Durazno,25,1
+111,2024-03-12,Curitiba,Rocha,302,4
+112,2024-07-08,Florianópolis,San José,106,14
+113,2024-09-12,Curitiba,Durazno,200,18
+114,2024-02-14,La Plata,Durazno,201,1
+115,2024-06-25,Rosario,Soriano,102,11
+116,2023-12-18,Florianópolis,Soriano,314,7
+117,2024-09-01,Rio Grande,Flores,344,15
+118,2023-12-23,Pelotas,Rivera,227,6
+119,2024-05-26,Asunción,Maldonado,326,19
+120,2024-10-06,Buenos Aires,Río Negro,174,3
+121,2024-01-07,Curitiba,San José,283,7
+122,2024-04-08,Santa Fe,Canelones,334,19
+123,2023-12-15,Rosario,Rivera,236,13
+124,2024-01-02,La Plata,Montevideo,146,3
+125,2024-09-09,Santa Fe,Florida,365,6
+126,2024-07-23,Porto Alegre,Colonia,431,12
+127,2024-01-17,Santa Fe,San José,198,12
+128,2024-05-13,Porto Alegre,Treinta y Tres,114,9
+129,2024-09-23,Rosario,Treinta y Tres,494,8
+130,2024-01-31,México,Canelones,186,13
+131,2024-04-04,Pelotas,Canelones,151,5
+132,2024-02-03,Porto Alegre,Florida,152,18
+133,2024-06-09,Rio Grande,Tacuarembó,138,1
+134,2024-09-16,Asunción,Rocha,245,14
+135,2024-09-06,Rosario,Canelones,240,15
+136,2024-11-25,Buenos Aires,Montevideo,495,2
+137,2024-04-22,Córdoba,Rivera,473,11
+138,2024-06-25,Buenos Aires,Flores,278,15
+139,2024-07-08,Buenos Aires,Treinta y Tres,476,12
+140,2024-02-29,Rio Grande,Florida,171,14
+141,2024-04-26,Pelotas,Florida,220,3
+142,2024-02-15,Florianópolis,Maldonado,466,2
+143,2024-07-17,Rio Grande,Artigas,206,5
+144,2023-12-29,Curitiba,Rivera,21,10
+145,2024-04-01,México,Treinta y Tres,97,5
+146,2024-09-23,Santa Fe,Artigas,107,18
+147,2024-07-01,Rosario,Salto,352,8
+148,2024-05-13,Córdoba,Lavalleja,115,6
+149,2024-06-06,La Plata,Colonia,203,8
+150,2024-06-01,La Plata,Paysandú,115,14
+151,2024-02-22,Curitiba,Montevideo,379,10
+152,2024-05-15,Asunción,San José,107,4
+153,2024-04-26,México,Montevideo,481,13
+154,2024-07-12,Florianópolis,Canelones,50,4
+155,2024-07-09,La Plata,Maldonado,373,10
+156,2024-06-01,Asunción,Tacuarembó,145,14
+157,2024-03-27,Santa Fe,Rivera,410,1
+158,2024-05-12,Buenos Aires,Salto,318,8
+159,2023-12-24,Asunción,Durazno,4,3
+160,2024-03-07,Rosario,Montevideo,157,9
+161,2024-11-09,Rosario,Durazno,24,17
+162,2024-04-20,Santiago,Rivera,182,13
+163,2024-02-27,Rio Grande,Colonia,76,12
+164,2024-11-03,Rio Grande,Maldonado,240,16
+165,2024-08-02,Asunción,Canelones,426,12
+166,2024-05-12,Santiago,Canelones,324,17
+167,2024-11-18,Rio Grande,Rivera,64,9
+168,2024-03-15,Curitiba,Soriano,217,3
+169,2024-10-19,Porto Alegre,Flores,417,1
+170,2024-08-16,Buenos Aires,Cerro Largo,357,13
+171,2024-10-28,Porto Alegre,Lavalleja,141,19
+172,2024-07-04,Curitiba,Río Negro,396,4
+173,2024-04-04,Santiago,Tacuarembó,198,15
+174,2024-02-09,Curitiba,San José,262,3
+175,2024-06-02,Rio Grande,Soriano,377,16
+176,2024-07-19,Santiago,Salto,221,18
+177,2024-04-01,Buenos Aires,Salto,189,19
+178,2023-12-08,Santiago,Soriano,74,15
+179,2023-12-07,Florianópolis,Canelones,88,3
+180,2024-07-11,Buenos Aires,Río Negro,50,14
+181,2024-03-01,Santa Fe,Salto,177,4
+182,2024-04-11,México,Río Negro,255,8
+183,2023-12-16,Rosario,Maldonado,176,1
+184,2023-12-05,Rosario,Lavalleja,465,2
+185,2023-12-20,Porto Alegre,Cerro Largo,17,3
+186,2024-04-09,Rio Grande,Soriano,109,3
+187,2024-02-12,Curitiba,Treinta y Tres,209,8
+188,2024-04-23,Florianópolis,Rivera,56,12
+189,2024-08-17,Rio Grande,Lavalleja,180,2
+190,2024-04-19,Santiago,Rocha,265,15
+191,2024-11-18,Buenos Aires,Canelones,341,2
+192,2024-05-24,Pelotas,Canelones,437,17
+193,2023-12-11,Porto Alegre,Flores,246,14
+194,2024-06-01,Santa Fe,Durazno,243,6
+195,2023-12-09,Santa Fe,San José,108,17
+196,2024-07-18,Santiago,Río Negro,500,19
+197,2024-08-17,La Plata,Artigas,452,6
+198,2024-09-06,Córdoba,Cerro Largo,134,3
+199,2024-06-28,Curitiba,Colonia,480,18
+200,2024-09-08,La Plata,Río Negro,451,5
+201,2024-01-03,Buenos Aires,San José,403,3
+202,2024-02-20,Buenos Aires,Treinta y Tres,300,5
+203,2024-02-02,Curitiba,San José,194,12
+204,2024-04-10,La Plata,Canelones,64,13
+205,2024-05-17,La Plata,Flores,283,9
+206,2024-06-05,Florianópolis,Artigas,317,6
+207,2024-07-21,Rio Grande,San José,487,14
+208,2023-12-09,Pelotas,Florida,431,3
+209,2024-10-25,Córdoba,San José,399,2
+210,2024-09-01,Asunción,Treinta y Tres,239,7
+211,2024-03-30,Pelotas,Maldonado,45,2
+212,2024-05-10,Rio Grande,Canelones,165,9
+213,2024-09-06,Córdoba,Maldonado,78,10
+214,2024-02-23,México,Rivera,288,2
+215,2024-11-25,Porto Alegre,Artigas,47,18
+216,2024-11-21,Curitiba,Maldonado,396,9
+217,2024-10-23,Rosario,Rivera,285,11
+218,2024-10-11,México,Paysandú,400,13
+219,2024-07-31,Asunción,Treinta y Tres,436,12
+220,2024-02-13,Santiago,Montevideo,36,13
+221,2024-10-29,Curitiba,Cerro Largo,314,17
+222,2024-02-10,Santa Fe,Treinta y Tres,52,18
+223,2024-01-29,Porto Alegre,Rocha,336,18
+224,2024-03-18,Córdoba,Treinta y Tres,122,17
+225,2024-09-08,México,Tacuarembó,281,17
+226,2024-08-10,Porto Alegre,Río Negro,91,10
+227,2024-04-17,Asunción,Cerro Largo,370,8
+228,2024-07-31,Rio Grande,Florida,254,17
+229,2024-08-04,Florianópolis,Río Negro,200,7
+230,2024-06-26,Rosario,Flores,194,13
+231,2024-04-09,Santiago,Rocha,238,11
+232,2024-11-02,Buenos Aires,Flores,52,19
+233,2024-06-23,Córdoba,Artigas,120,3
+234,2024-01-13,Rosario,Montevideo,323,17
+235,2024-10-14,Córdoba,San José,132,12
+236,2024-02-17,Asunción,Rocha,370,13
+237,2024-06-17,Florianópolis,Florida,371,7
+238,2023-12-11,Buenos Aires,Paysandú,481,18
+239,2023-12-11,Córdoba,Treinta y Tres,246,5
+240,2024-08-14,Rosario,Salto,317,2
+241,2024-11-11,La Plata,Lavalleja,354,19
+242,2024-02-25,Santiago,Maldonado,76,8
+243,2024-05-12,Santiago,Colonia,366,12
+244,2024-06-13,Pelotas,Rocha,433,9
+245,2024-03-17,Florianópolis,Río Negro,35,19
+246,2024-11-15,Buenos Aires,Rocha,365,9
+247,2024-10-07,Asunción,Lavalleja,370,2
+248,2024-05-18,Porto Alegre,Tacuarembó,383,11
+249,2024-03-04,Porto Alegre,Rivera,181,11
+250,2024-01-18,Rosario,Río Negro,205,12
+251,2024-06-30,Asunción,Treinta y Tres,62,12
+252,2023-12-06,México,Rivera,154,19
+253,2024-03-28,Rosario,Cerro Largo,61,16
+254,2024-05-20,Santa Fe,Durazno,484,4
+255,2024-02-21,Florianópolis,Flores,421,17
+256,2024-03-15,Florianópolis,Tacuarembó,264,10
+257,2024-06-11,Rio Grande,Cerro Largo,213,4
+258,2024-06-20,Florianópolis,Salto,16,19
+259,2024-05-10,Santiago,Tacuarembó,169,16
+260,2024-07-04,México,Cerro Largo,147,6
+261,2024-07-29,Pelotas,San José,222,1
+262,2024-05-17,La Plata,Lavalleja,294,1
+263,2024-10-07,Córdoba,Soriano,30,14
+264,2024-05-09,Porto Alegre,Treinta y Tres,271,3
+265,2024-06-22,Buenos Aires,Río Negro,490,11
+266,2024-02-29,Pelotas,Rivera,373,1
+267,2024-10-08,Buenos Aires,Flores,142,4
+268,2023-12-22,Pelotas,Rivera,492,17
+269,2024-06-11,Pelotas,Florida,499,2
+270,2024-04-30,Rio Grande,Soriano,231,3
+271,2024-05-29,Pelotas,Cerro Largo,83,2
+272,2024-01-03,Asunción,Colonia,347,7
+273,2024-11-03,Pelotas,Soriano,152,4
+274,2024-05-10,Rio Grande,Colonia,311,16
+275,2024-07-09,Santa Fe,Salto,412,4
+276,2024-07-14,La Plata,Canelones,451,8
+277,2024-06-05,México,Florida,317,9
+278,2023-12-03,Buenos Aires,Río Negro,275,19
+279,2024-04-14,Rosario,Salto,484,12
+280,2024-02-19,La Plata,Artigas,148,8
+281,2024-06-29,Santiago,Treinta y Tres,399,4
+282,2024-05-31,La Plata,Lavalleja,267,13
+283,2023-12-07,Pelotas,Cerro Largo,438,18
+284,2024-07-20,Santa Fe,Artigas,9,3
+285,2024-11-12,Pelotas,Maldonado,446,9
+286,2024-01-10,Santiago,Rivera,468,1
+287,2023-12-11,Florianópolis,Florida,175,11
+288,2024-04-08,Florianópolis,Tacuarembó,397,13
+289,2024-11-01,Florianópolis,Soriano,331,1
+290,2024-01-10,Santa Fe,Florida,429,17
+291,2024-01-28,Rio Grande,Durazno,482,13
+292,2024-11-02,Asunción,Colonia,479,9
+293,2024-02-01,Pelotas,Río Negro,38,17
+294,2024-01-09,Curitiba,Maldonado,133,18
+295,2024-02-10,Florianópolis,Rivera,230,9
+296,2024-07-21,Santa Fe,Paysandú,427,17
+297,2024-05-10,Curitiba,Maldonado,451,19
+298,2024-11-28,Florianópolis,Colonia,382,13
+299,2024-05-07,Santiago,Flores,134,7
+300,2024-03-24,Buenos Aires,Colonia,284,18
+301,2024-03-05,Porto Alegre,Rocha,166,14
+302,2024-09-29,Pelotas,San José,281,17
+303,2024-05-14,Buenos Aires,Florida,363,9
+304,2024-04-08,Córdoba,Tacuarembó,162,17
+305,2024-09-29,Porto Alegre,Lavalleja,172,6
+306,2023-12-16,La Plata,Rocha,69,18
+307,2024-03-16,Florianópolis,Durazno,349,18
+308,2024-02-07,La Plata,Montevideo,273,5
+309,2024-05-15,México,Artigas,236,8
+310,2024-03-24,Córdoba,Tacuarembó,173,2
+311,2023-12-02,Porto Alegre,Canelones,498,1
+312,2024-06-26,Florianópolis,Durazno,126,14
+313,2024-04-03,Porto Alegre,Rocha,285,10
+314,2024-10-15,Porto Alegre,Flores,499,11
+315,2024-01-01,Rio Grande,Treinta y Tres,409,4
+316,2024-02-28,Curitiba,Río Negro,226,14
+317,2024-04-08,La Plata,Maldonado,440,13
+318,2024-07-14,Rosario,Maldonado,185,12
+319,2024-10-14,Porto Alegre,Montevideo,371,5
+320,2024-10-02,Curitiba,Cerro Largo,50,4
+321,2024-03-21,Curitiba,Río Negro,331,7
+322,2024-12-01,La Plata,Tacuarembó,175,12
+323,2024-07-26,Santa Fe,San José,67,14
+324,2024-11-22,Pelotas,Treinta y Tres,69,12
+325,2024-08-27,Curitiba,Rocha,240,7
+326,2024-02-27,Rosario,Tacuarembó,343,16
+327,2024-06-01,Córdoba,Cerro Largo,393,14
+328,2024-01-18,Córdoba,Florida,234,13
+329,2024-07-03,Asunción,Treinta y Tres,386,14
+330,2024-05-22,Rio Grande,Lavalleja,474,8
+331,2024-10-06,Porto Alegre,Canelones,170,16
+332,2024-08-22,Curitiba,Durazno,110,8
+333,2024-01-27,Santiago,Treinta y Tres,273,7
+334,2024-03-07,Florianópolis,Salto,493,10
+335,2024-04-23,Córdoba,Colonia,73,5
+336,2024-10-19,Porto Alegre,San José,481,8
+337,2024-03-08,Buenos Aires,Lavalleja,434,3
+338,2024-05-02,Curitiba,San José,56,2
+339,2024-01-31,Porto Alegre,Florida,319,9
+340,2024-08-20,Pelotas,Cerro Largo,66,11
+341,2024-03-30,Asunción,Canelones,101,19
+342,2024-10-14,Santiago,Artigas,354,2
+343,2024-01-10,Córdoba,Paysandú,241,8
+344,2024-09-29,La Plata,Montevideo,405,16
+345,2023-12-07,Florianópolis,Maldonado,135,18
+346,2023-12-29,Rosario,Treinta y Tres,10,5
+347,2024-06-07,Rosario,Rivera,467,19
+348,2024-05-06,Santa Fe,Rivera,306,2
+349,2024-03-20,México,San José,51,14
+350,2024-11-26,Curitiba,Cerro Largo,282,15
+351,2024-01-30,Porto Alegre,Canelones,122,7
+352,2024-04-28,Córdoba,Rivera,96,19
+353,2024-09-02,México,Paysandú,81,18
+354,2024-09-09,Santiago,Flores,3,11
+355,2024-01-24,Porto Alegre,Paysandú,38,15
+356,2024-06-15,Asunción,Flores,28,11
+357,2024-08-29,Rio Grande,Rocha,128,17
+358,2024-09-09,Rosario,Río Negro,248,3
+359,2024-03-02,Córdoba,San José,154,9
+360,2024-05-12,Santiago,Cerro Largo,50,6
+361,2024-05-25,Pelotas,Durazno,227,19
+362,2024-04-11,Santa Fe,Canelones,43,14
+363,2023-12-27,Florianópolis,Salto,476,18
+364,2024-05-13,Florianópolis,Artigas,73,11
+365,2023-12-22,Córdoba,Flores,399,12
+366,2024-01-20,Florianópolis,Treinta y Tres,456,4
+367,2024-08-27,Rosario,Cerro Largo,228,12
+368,2024-04-09,Rosario,Flores,468,5
+369,2024-05-13,Rosario,Lavalleja,493,16
+370,2024-08-17,Rio Grande,Tacuarembó,117,11
+371,2024-05-07,Buenos Aires,Maldonado,55,6
+372,2024-05-18,Buenos Aires,Río Negro,421,12
+373,2024-07-08,Buenos Aires,Paysandú,456,19
+374,2024-04-01,Pelotas,Río Negro,269,19
+375,2024-10-25,Buenos Aires,Flores,498,13
+376,2024-07-09,Santa Fe,Artigas,416,10
+377,2024-01-29,Asunción,Durazno,75,7
+378,2024-01-01,Porto Alegre,Lavalleja,186,3
+379,2024-06-04,México,Salto,391,8
+380,2024-09-14,Buenos Aires,Rocha,353,10
+381,2024-08-18,Santa Fe,Flores,400,10
+382,2024-11-24,Curitiba,Cerro Largo,234,15
+383,2024-02-10,Curitiba,Treinta y Tres,221,18
+384,2024-04-19,Porto Alegre,Rocha,276,7
+385,2024-08-04,Curitiba,Paysandú,196,19
+386,2024-08-01,México,Cerro Largo,194,14
+387,2024-02-02,Porto Alegre,Colonia,63,9
+388,2024-03-20,Santiago,Tacuarembó,341,8
+389,2024-10-25,Asunción,Cerro Largo,319,16
+390,2024-07-06,Curitiba,Florida,451,7
+391,2024-06-28,La Plata,Río Negro,140,13
+392,2024-07-29,Porto Alegre,Soriano,308,10
+393,2024-01-10,México,Montevideo,340,6
+394,2024-09-08,Pelotas,Tacuarembó,204,19
+395,2024-09-01,Córdoba,Montevideo,470,11
+396,2024-04-25,Santiago,Montevideo,273,18
+397,2024-05-05,La Plata,Río Negro,359,10
+398,2024-07-20,Pelotas,Tacuarembó,259,10
+399,2024-04-29,Curitiba,Artigas,159,17
+400,2024-02-04,Asunción,Flores,215,17
+401,2024-07-29,Rosario,Canelones,455,7
+402,2024-10-27,Buenos Aires,Río Negro,383,11
+403,2024-02-10,La Plata,Maldonado,62,12
+404,2024-05-07,Córdoba,Soriano,27,5
+405,2024-10-09,Buenos Aires,Cerro Largo,219,6
+406,2024-03-06,Florianópolis,Tacuarembó,362,11
+407,2024-11-10,La Plata,Canelones,176,5
+408,2024-04-23,Santiago,Río Negro,87,7
+409,2024-03-06,Pelotas,Artigas,239,8
+410,2023-12-26,Rosario,Cerro Largo,75,8
+411,2024-04-09,Rio Grande,Canelones,255,19
+412,2024-07-06,Rosario,Soriano,17,7
+413,2024-02-08,Buenos Aires,Salto,485,2
+414,2024-05-25,Pelotas,Durazno,203,3
+415,2023-12-03,Santiago,Paysandú,238,12
+416,2024-10-27,Florianópolis,Soriano,167,11
+417,2024-05-07,Curitiba,Salto,253,10
+418,2024-05-16,México,Canelones,148,3
+419,2024-05-25,Córdoba,Río Negro,313,14
+420,2024-05-18,La Plata,Soriano,297,2
+421,2024-01-02,Buenos Aires,Treinta y Tres,49,15
+422,2024-02-02,Asunción,Tacuarembó,470,12
+423,2024-04-07,Porto Alegre,Cerro Largo,255,18
+424,2024-10-29,Santiago,Flores,100,2
+425,2024-11-05,Rio Grande,Tacuarembó,82,6
+426,2024-09-29,Santiago,Cerro Largo,117,5
+427,2023-12-09,Asunción,Florida,402,3
+428,2024-03-20,Buenos Aires,Maldonado,24,16
+429,2024-03-26,Santa Fe,Soriano,353,15
+430,2024-08-18,Rio Grande,Tacuarembó,344,9
+431,2024-10-18,Porto Alegre,Maldonado,133,17
+432,2024-02-06,Buenos Aires,Cerro Largo,301,2
+433,2024-08-27,Santiago,Paysandú,174,12
+434,2024-02-17,Rosario,Flores,298,18
+435,2024-01-14,Curitiba,Florida,14,19
+436,2024-04-02,México,Río Negro,322,17
+437,2024-11-25,Santa Fe,San José,95,18
+438,2024-06-18,Córdoba,Canelones,118,17
+439,2024-10-31,Córdoba,Lavalleja,278,9
+440,2024-04-25,Santa Fe,Tacuarembó,112,11
+441,2024-01-18,México,Rivera,362,15
+442,2023-12-02,Rosario,Durazno,204,17
+443,2023-12-03,Pelotas,Río Negro,338,7
+444,2024-07-16,Pelotas,Maldonado,258,4
+445,2024-07-11,México,San José,146,12
+446,2024-06-26,México,Artigas,446,18
+447,2024-10-10,Pelotas,Cerro Largo,495,9
+448,2024-07-24,Florianópolis,Colonia,215,16
+449,2024-02-14,Asunción,Flores,498,3
+450,2024-05-18,Santiago,Rivera,414,15
+451,2024-10-31,Santiago,Flores,280,5
+452,2024-08-06,Rio Grande,Montevideo,459,1
+453,2023-12-14,Pelotas,Maldonado,212,14
+454,2024-04-24,Buenos Aires,Río Negro,90,6
+455,2024-09-16,Santa Fe,Cerro Largo,133,19
+456,2024-08-27,Córdoba,Cerro Largo,26,12
+457,2024-07-20,Buenos Aires,Canelones,209,12
+458,2023-12-06,México,Canelones,41,17
+459,2024-02-15,Rosario,Rocha,262,12
+460,2024-05-15,Florianópolis,San José,191,17
+461,2024-08-12,Santiago,Canelones,393,14
+462,2024-04-30,Florianópolis,Cerro Largo,310,19
+463,2024-11-13,Rosario,Flores,209,9
+464,2024-06-08,Curitiba,Artigas,18,17
+465,2024-07-05,Porto Alegre,Salto,33,6
+466,2024-02-23,Porto Alegre,Paysandú,270,11
+467,2024-08-14,Santa Fe,Montevideo,439,12
+468,2024-06-30,Santiago,Río Negro,98,7
+469,2024-09-11,Córdoba,Cerro Largo,429,10
+470,2024-07-27,Rosario,Soriano,74,3
+471,2024-04-24,Porto Alegre,Florida,51,12
+472,2024-06-12,Rosario,Rocha,221,19
+473,2024-10-24,Córdoba,Artigas,5,11
+474,2024-10-17,Córdoba,Colonia,367,18
+475,2024-02-24,México,Artigas,464,19
+476,2024-07-11,Curitiba,Maldonado,21,18
+477,2024-11-03,Pelotas,Colonia,330,10
+478,2024-10-29,Curitiba,San José,9,12
+479,2024-04-17,Curitiba,Durazno,91,19
+480,2024-01-02,Santa Fe,Rocha,86,8
+481,2024-07-07,Córdoba,Maldonado,211,18
+482,2024-10-15,Santa Fe,Paysandú,193,14
+483,2023-12-06,Buenos Aires,Maldonado,107,19
+484,2024-07-01,Florianópolis,Rivera,317,14
+485,2024-06-06,Asunción,Rivera,201,7
+486,2024-11-28,Rosario,Soriano,195,6
+487,2024-08-09,Santa Fe,Cerro Largo,36,19
+488,2024-07-20,Florianópolis,Artigas,247,14
+489,2024-08-12,Curitiba,Maldonado,349,1
+490,2024-04-29,Rio Grande,San José,158,5
+491,2024-05-01,Rio Grande,San José,293,6
+492,2024-09-22,La Plata,Paysandú,428,8
+493,2024-02-02,Asunción,Rivera,444,14
+494,2024-05-24,Curitiba,Canelones,344,6
+495,2024-05-09,Santa Fe,Maldonado,7,1
+496,2024-06-28,Córdoba,Salto,159,9
+497,2024-01-14,La Plata,Durazno,235,2
+498,2024-01-28,Buenos Aires,Canelones,164,18
+499,2024-05-29,La Plata,Treinta y Tres,420,14
+500,2024-08-06,Santiago,Rocha,299,16
+501,2024-09-11,Santiago,Rocha,192,10
+502,2024-08-27,Córdoba,Canelones,253,18
+503,2024-04-19,La Plata,Colonia,53,15
+504,2023-12-03,Florianópolis,Florida,46,5
+505,2024-08-21,Santa Fe,Canelones,91,1
+506,2024-01-19,México,Paysandú,362,8
+507,2024-01-04,Rosario,Río Negro,30,10
+508,2024-06-19,Florianópolis,Durazno,223,16
+509,2024-11-22,Córdoba,Río Negro,366,9
+510,2024-06-28,Florianópolis,Durazno,490,17
+511,2024-06-30,Buenos Aires,Rivera,145,1
+512,2024-02-19,Rosario,Río Negro,149,7
+513,2024-11-29,Florianópolis,Paysandú,91,10
+514,2024-09-01,Córdoba,Florida,405,11
+515,2024-08-14,Rio Grande,Maldonado,211,3
+516,2024-01-29,Florianópolis,Artigas,254,5
+517,2024-05-22,Santa Fe,Soriano,28,10
+518,2024-08-04,Rio Grande,Paysandú,139,1
+519,2024-02-16,Córdoba,Montevideo,126,9
+520,2024-06-25,Santa Fe,Salto,149,13
+521,2024-04-12,Florianópolis,Salto,3,1
+522,2024-03-11,Santa Fe,Durazno,35,6
+523,2024-07-20,Porto Alegre,Tacuarembó,332,16
+524,2024-02-17,Rio Grande,Canelones,440,1
+525,2024-09-03,Santa Fe,Maldonado,400,4
+526,2024-05-13,Curitiba,Montevideo,77,9
+527,2024-08-03,Pelotas,Salto,139,18
+528,2024-02-02,Asunción,Maldonado,23,2
+529,2024-05-15,La Plata,Colonia,385,1
+530,2024-06-02,Buenos Aires,Tacuarembó,354,7
+531,2024-01-27,Rio Grande,San José,399,13
+532,2024-03-02,Pelotas,Colonia,186,3
+533,2024-05-18,Santa Fe,Canelones,11,19
+534,2024-04-05,Rosario,Canelones,76,9
+535,2024-04-22,La Plata,Florida,273,3
+536,2024-05-24,México,Canelones,221,1
+537,2024-06-29,Córdoba,Paysandú,142,17
+538,2024-11-27,México,Salto,2,11
+539,2024-11-15,México,Treinta y Tres,404,15
+540,2024-02-18,Santa Fe,Flores,51,9
+541,2023-12-12,Curitiba,Canelones,41,18
+542,2023-12-10,Rosario,Soriano,130,3
+543,2024-09-22,Rosario,Artigas,157,12
+544,2024-05-21,Porto Alegre,Paysandú,382,4
+545,2024-01-25,Santiago,Cerro Largo,322,1
+546,2024-07-01,Santiago,Soriano,73,12
+547,2024-08-21,Curitiba,Canelones,214,18
+548,2024-01-12,México,Maldonado,283,14
+549,2024-03-28,México,Montevideo,434,18
+550,2024-06-20,Asunción,Soriano,95,11
+551,2024-10-30,La Plata,Cerro Largo,460,3
+552,2024-05-08,Asunción,Rivera,256,16
+553,2024-09-30,La Plata,San José,261,9
+554,2024-06-12,Porto Alegre,Tacuarembó,314,9
+555,2024-10-14,Pelotas,Montevideo,66,8
+556,2024-08-21,La Plata,Florida,98,14
+557,2024-08-30,Rosario,Flores,276,18
+558,2024-03-29,Santa Fe,Tacuarembó,92,4
+559,2024-10-11,Asunción,Maldonado,294,17
+560,2024-01-22,Rosario,Durazno,286,15
+561,2024-01-19,Pelotas,Montevideo,39,17
+562,2024-09-10,Florianópolis,Lavalleja,30,16
+563,2024-09-05,Florianópolis,Florida,203,12
+564,2024-05-02,Florianópolis,Maldonado,441,10
+565,2024-06-01,Asunción,Canelones,492,14
+566,2024-11-23,Córdoba,Tacuarembó,461,13
+567,2024-04-17,Córdoba,Treinta y Tres,369,18
+568,2024-06-05,Santa Fe,Artigas,307,16
+569,2024-04-14,Córdoba,Soriano,3,5
+570,2024-03-22,Santiago,Lavalleja,45,19
+571,2024-07-29,Pelotas,Colonia,251,13
+572,2024-09-20,Buenos Aires,Rivera,176,19
+573,2024-11-06,Santa Fe,Colonia,251,11
+574,2024-05-19,Santa Fe,Lavalleja,139,12
+575,2024-03-24,México,Maldonado,146,5
+576,2024-08-03,Rosario,Artigas,221,5
+577,2024-11-29,Rio Grande,Rivera,498,3
+578,2024-07-09,Florianópolis,Rivera,487,2
+579,2023-12-02,Porto Alegre,Tacuarembó,28,19
+580,2023-12-20,Santiago,Colonia,164,13
+581,2024-08-09,Córdoba,Florida,92,16
+582,2023-12-30,Florianópolis,Colonia,80,6
+583,2024-10-21,Asunción,Artigas,45,16
+584,2024-03-20,Santa Fe,San José,166,3
+585,2024-11-11,Santa Fe,San José,368,4
+586,2024-08-17,Pelotas,Durazno,323,11
+587,2024-06-05,México,Rocha,142,11
+588,2023-12-10,Córdoba,Montevideo,206,2
+589,2024-09-24,Pelotas,Cerro Largo,120,2
+590,2024-09-01,Asunción,Montevideo,226,3
+591,2024-07-09,La Plata,Florida,70,10
+592,2024-06-30,Rio Grande,Tacuarembó,247,4
+593,2024-10-25,Córdoba,Paysandú,189,4
+594,2024-11-14,Rosario,Artigas,457,5
+595,2024-06-21,México,Río Negro,319,4
+596,2024-08-19,Rosario,Durazno,412,15
+597,2024-08-06,Santiago,Rivera,115,16
+598,2024-11-23,Santa Fe,Paysandú,92,9
+599,2024-05-25,México,Rivera,343,6
+600,2023-12-16,Porto Alegre,Soriano,476,5
+601,2024-09-18,Florianópolis,Maldonado,314,18
+602,2024-11-05,Santa Fe,Montevideo,388,17
+603,2024-02-19,Rio Grande,Rocha,302,6
+604,2024-05-03,Curitiba,Flores,415,16
+605,2023-12-06,Rosario,Cerro Largo,214,19
+606,2024-10-19,Pelotas,Cerro Largo,34,16
+607,2024-11-18,Asunción,Rivera,314,12
+608,2024-10-12,Curitiba,Durazno,220,7
+609,2024-07-01,Porto Alegre,Rivera,194,15
+610,2024-10-04,Porto Alegre,Treinta y Tres,394,5
+611,2024-04-17,Curitiba,Montevideo,202,3
+612,2024-05-27,Curitiba,Florida,288,3
+613,2023-12-13,Curitiba,Soriano,136,5
+614,2024-01-25,Florianópolis,Maldonado,296,9
+615,2024-07-06,La Plata,Cerro Largo,31,1
+616,2024-06-07,México,Maldonado,182,6
+617,2024-09-01,Córdoba,Florida,176,5
+618,2024-08-04,La Plata,Florida,482,4
+619,2024-01-10,México,Cerro Largo,10,12
+620,2024-10-18,La Plata,Montevideo,211,14
+621,2024-11-10,Rio Grande,Rocha,236,13
+622,2024-10-15,México,Rivera,352,15
+623,2024-11-25,Porto Alegre,Soriano,418,12
+624,2024-04-12,Santa Fe,Río Negro,418,4
+625,2024-09-25,México,Salto,12,14
+626,2024-01-05,Pelotas,San José,87,7
+627,2024-09-19,México,Montevideo,398,14
+628,2024-02-24,México,Río Negro,272,7
+629,2024-07-16,Santa Fe,Maldonado,500,13
+630,2024-09-10,Buenos Aires,Florida,178,19
+631,2024-06-28,Rosario,Río Negro,191,8
+632,2024-08-10,Florianópolis,Salto,399,12
+633,2024-10-01,Rosario,Rivera,183,9
+634,2024-10-08,Florianópolis,Soriano,64,1
+635,2024-11-12,Santa Fe,Canelones,475,10
+636,2024-11-14,Florianópolis,Tacuarembó,373,9
+637,2024-11-08,Asunción,Soriano,306,2
+638,2024-04-27,Asunción,Maldonado,317,12
+639,2024-12-01,Córdoba,Tacuarembó,342,11
+640,2024-03-23,Santa Fe,Artigas,50,15
+641,2024-05-08,Florianópolis,San José,16,17
+642,2024-11-27,Rio Grande,Salto,255,14
+643,2024-08-25,Rosario,Salto,60,5
+644,2024-07-30,Florianópolis,Salto,275,2
+645,2024-07-21,Asunción,Durazno,19,6
+646,2023-12-29,Florianópolis,Cerro Largo,42,14
+647,2024-07-18,Rosario,Canelones,120,11
+648,2024-01-09,Rio Grande,Durazno,315,12
+649,2024-05-20,Florianópolis,Artigas,22,15
+650,2024-07-24,Santa Fe,Cerro Largo,103,12
+651,2024-10-21,Rio Grande,Treinta y Tres,331,13
+652,2024-08-23,La Plata,San José,158,9
+653,2024-05-27,Curitiba,Rivera,82,16
+654,2024-10-15,Florianópolis,Lavalleja,100,7
+655,2024-03-31,Rosario,Soriano,74,3
+656,2024-02-23,Rio Grande,Florida,412,10
+657,2024-02-17,Santiago,Artigas,135,14
+658,2023-12-16,Pelotas,Colonia,307,5
+659,2024-03-18,Córdoba,Canelones,491,15
+660,2024-11-21,Curitiba,Flores,63,11
+661,2024-10-03,Curitiba,Cerro Largo,134,3
+662,2024-06-09,Rio Grande,Montevideo,349,15
+663,2024-04-05,Porto Alegre,Artigas,102,19
+664,2024-10-07,Buenos Aires,Tacuarembó,29,5
+665,2023-12-11,Curitiba,Florida,471,12
+666,2024-09-25,Santa Fe,Durazno,427,9
+667,2023-12-31,Porto Alegre,Cerro Largo,375,5
+668,2024-07-03,Florianópolis,Rivera,338,19
+669,2024-08-24,Pelotas,Río Negro,367,10
+670,2024-04-14,Asunción,Rocha,333,10
+671,2024-05-10,Santiago,Río Negro,385,15
+672,2024-01-09,México,Rocha,142,13
+673,2023-12-06,Porto Alegre,Florida,27,15
+674,2024-06-18,Buenos Aires,Lavalleja,293,6
+675,2024-04-23,Asunción,Soriano,211,8
+676,2024-01-13,Rosario,Maldonado,175,13
+677,2024-01-17,Santa Fe,Durazno,204,18
+678,2024-11-25,Córdoba,Maldonado,472,6
+679,2023-12-21,Rio Grande,Río Negro,254,9
+680,2024-02-23,Porto Alegre,Treinta y Tres,9,18
+681,2024-06-24,Santa Fe,Flores,133,16
+682,2024-08-20,Santiago,Montevideo,372,12
+683,2024-04-03,Florianópolis,Lavalleja,342,17
+684,2024-02-29,Florianópolis,Cerro Largo,189,1
+685,2024-10-14,Porto Alegre,Canelones,152,4
+686,2024-10-16,Curitiba,Salto,429,18
+687,2024-04-27,Pelotas,Flores,34,1
+688,2024-08-04,Rio Grande,Florida,409,14
+689,2024-06-03,Pelotas,Lavalleja,248,10
+690,2024-03-15,Pelotas,Flores,1,7
+691,2024-06-16,Asunción,Salto,19,11
+692,2024-11-08,Córdoba,Cerro Largo,188,18
+693,2024-08-28,Rio Grande,Treinta y Tres,238,6
+694,2024-03-20,Curitiba,Rocha,225,2
+695,2024-12-01,Córdoba,Maldonado,338,1
+696,2023-12-09,Rio Grande,Lavalleja,466,1
+697,2024-05-17,La Plata,Florida,247,15
+698,2024-04-22,Porto Alegre,Florida,227,5
+699,2024-02-25,Santiago,San José,364,14
+700,2024-03-03,Porto Alegre,Canelones,227,4
+701,2024-05-27,Pelotas,Tacuarembó,373,6
+702,2024-09-25,Buenos Aires,Durazno,146,3
+703,2023-12-15,Porto Alegre,Lavalleja,318,16
+704,2024-04-29,Rio Grande,Cerro Largo,63,9
+705,2024-08-24,Buenos Aires,Salto,500,6
+706,2023-12-10,Pelotas,San José,307,7
+707,2024-06-12,Córdoba,Maldonado,436,6
+708,2024-02-15,Buenos Aires,Soriano,37,16
+709,2024-06-28,La Plata,Paysandú,102,4
+710,2024-11-04,Córdoba,Montevideo,163,16
+711,2024-01-07,La Plata,Lavalleja,100,16
+712,2024-11-30,Pelotas,Treinta y Tres,59,18
+713,2024-10-13,Florianópolis,San José,451,9
+714,2024-06-05,Curitiba,Montevideo,257,18
+715,2024-01-26,Asunción,Soriano,409,6
+716,2024-09-02,Buenos Aires,Durazno,263,15
+717,2024-10-25,Buenos Aires,Treinta y Tres,200,10
+718,2024-05-06,Asunción,Montevideo,453,12
+719,2024-09-05,Buenos Aires,Durazno,106,16
+720,2023-12-22,Buenos Aires,Río Negro,278,17
+721,2024-07-05,Asunción,Canelones,219,11
+722,2024-04-09,Porto Alegre,Durazno,358,16
+723,2024-04-10,La Plata,Flores,367,2
+724,2023-12-21,Asunción,Florida,429,6
+725,2024-01-02,Córdoba,Rivera,299,16
+726,2024-05-10,Rosario,Maldonado,206,18
+727,2024-09-04,Santa Fe,Colonia,99,11
+728,2024-04-30,Porto Alegre,Canelones,53,10
+729,2024-01-31,Porto Alegre,Colonia,322,7
+730,2024-09-21,Florianópolis,Treinta y Tres,324,15
+731,2024-04-24,Pelotas,Paysandú,388,15
+732,2024-06-14,Rio Grande,Río Negro,437,5
+733,2024-03-29,Santiago,Artigas,353,8
+734,2024-04-22,Córdoba,Rivera,416,10
+735,2024-07-19,Pelotas,Soriano,90,4
+736,2024-08-29,Florianópolis,Rocha,133,9
+737,2024-11-27,México,Colonia,1,6
+738,2024-05-14,Santa Fe,Rivera,264,2
+739,2024-08-15,Pelotas,Lavalleja,401,2
+740,2024-10-26,México,Cerro Largo,319,6
+741,2024-02-26,México,Canelones,202,1
+742,2024-08-16,México,Durazno,299,2
+743,2024-02-01,Asunción,Artigas,324,8
+744,2024-10-20,México,Rivera,186,10
+745,2024-07-27,Rio Grande,Lavalleja,72,5
+746,2024-01-05,Santa Fe,Colonia,417,8
+747,2023-12-04,Pelotas,Salto,499,4
+748,2024-06-25,México,Durazno,235,16
+749,2024-04-23,Asunción,Salto,154,13
+750,2024-11-29,Porto Alegre,Paysandú,299,10
+751,2024-05-13,Santa Fe,Cerro Largo,135,17
+752,2024-04-09,Porto Alegre,Río Negro,291,15
+753,2024-08-07,Curitiba,Paysandú,119,18
+754,2024-09-05,Córdoba,Soriano,384,10
+755,2024-08-16,Rosario,Soriano,124,3
+756,2024-02-26,Florianópolis,Rocha,308,12
+757,2024-05-14,Curitiba,Artigas,338,18
+758,2024-08-11,México,Rocha,197,18
+759,2024-06-14,México,Cerro Largo,441,2
+760,2024-02-07,Pelotas,Montevideo,212,19
+761,2024-09-30,Córdoba,Salto,176,16
+762,2024-02-26,Asunción,Durazno,96,16
+763,2024-07-09,Rio Grande,Río Negro,75,6
+764,2024-01-13,Buenos Aires,Cerro Largo,424,13
+765,2024-11-15,Santiago,Salto,483,1
+766,2024-05-09,Curitiba,San José,324,14
+767,2024-02-01,Córdoba,Montevideo,499,14
+768,2023-12-30,Asunción,Lavalleja,361,12
+769,2024-01-07,Córdoba,Salto,105,9
+770,2024-10-01,México,Lavalleja,80,18
+771,2024-03-06,Pelotas,Artigas,34,3
+772,2024-04-26,México,Rocha,441,13
+773,2024-11-22,Curitiba,Florida,240,5
+774,2024-03-02,Rosario,Montevideo,97,1
+775,2024-07-02,Buenos Aires,Durazno,84,16
+776,2024-04-26,La Plata,Salto,168,4
+777,2024-10-20,Curitiba,Paysandú,144,16
+778,2024-10-15,Florianópolis,Montevideo,309,13
+779,2024-02-14,Córdoba,Treinta y Tres,470,10
+780,2024-08-01,Asunción,Soriano,371,1
+781,2024-06-24,Rosario,Rivera,473,12
+782,2024-05-25,Florianópolis,Rocha,1,1
+783,2024-02-08,Rio Grande,Rivera,17,16
+784,2024-08-08,Asunción,Colonia,197,11
+785,2024-01-30,Córdoba,Salto,239,5
+786,2024-03-27,Santiago,Treinta y Tres,414,3
+787,2024-03-11,Curitiba,Florida,453,16
+788,2024-01-20,Porto Alegre,San José,338,14
+789,2024-07-17,Santiago,Rocha,467,4
+790,2024-08-04,Santiago,Salto,281,7
+791,2024-06-29,México,Durazno,421,13
+792,2024-11-17,La Plata,Rivera,488,2
+793,2024-07-27,Florianópolis,Canelones,251,7
+794,2023-12-19,La Plata,Treinta y Tres,138,14
+795,2024-08-21,Santiago,Soriano,81,5
+796,2024-05-08,Santiago,Treinta y Tres,291,4
+797,2024-09-02,Santa Fe,Rivera,315,2
+798,2024-05-12,Florianópolis,Río Negro,293,8
+799,2024-05-16,Córdoba,Tacuarembó,283,6
+800,2024-05-08,Rio Grande,Treinta y Tres,314,2
+801,2024-11-21,Santa Fe,Flores,33,3
+802,2024-01-17,Curitiba,Rocha,4,8
+803,2024-06-06,La Plata,Montevideo,468,4
+804,2024-05-20,Rosario,Artigas,8,15
+805,2024-03-15,Santiago,Soriano,340,11
+806,2023-12-15,Córdoba,Montevideo,14,17
+807,2024-08-31,México,Río Negro,65,18
+808,2024-10-26,México,Cerro Largo,448,10
+809,2023-12-21,Santa Fe,Durazno,64,1
+810,2024-09-03,México,Florida,359,4
+811,2024-02-14,Curitiba,Río Negro,261,8
+812,2024-04-24,Porto Alegre,Rivera,266,10
+813,2023-12-10,Curitiba,Florida,268,18
+814,2024-07-26,Porto Alegre,Salto,393,7
+815,2024-02-13,Pelotas,Canelones,136,3
+816,2023-12-18,Rio Grande,Tacuarembó,172,5
+817,2024-08-12,Córdoba,Canelones,36,11
+818,2024-01-27,Florianópolis,Lavalleja,187,13
+819,2024-09-09,Florianópolis,Río Negro,121,9
+820,2024-06-11,Porto Alegre,Treinta y Tres,294,17
+821,2024-06-28,Pelotas,Artigas,1,15
+822,2024-10-23,Porto Alegre,Florida,429,4
+823,2024-10-26,Pelotas,San José,247,16
+824,2024-11-09,Buenos Aires,Colonia,458,19
+825,2024-09-04,Curitiba,San José,450,5
+826,2024-11-24,Curitiba,Treinta y Tres,461,7
+827,2024-03-18,Buenos Aires,Montevideo,22,4
+828,2023-12-31,La Plata,San José,273,16
+829,2024-01-30,Asunción,Rocha,279,16
+830,2024-05-27,Córdoba,Rivera,82,9
+831,2024-11-04,Buenos Aires,Río Negro,26,16
+832,2024-07-16,Rio Grande,Artigas,451,12
+833,2024-03-05,Rio Grande,Colonia,450,7
+834,2024-11-08,México,Flores,383,12
+835,2023-12-12,Florianópolis,Paysandú,175,18
+836,2024-03-14,La Plata,Canelones,411,14
+837,2024-11-27,Rio Grande,Salto,43,6
+838,2024-08-08,Buenos Aires,Lavalleja,351,2
+839,2024-05-23,Asunción,Lavalleja,192,12
+840,2024-11-23,Pelotas,Colonia,355,10
+841,2024-11-06,México,Salto,347,2
+842,2024-11-07,Pelotas,Maldonado,12,13
+843,2024-09-26,Córdoba,Rivera,102,6
+844,2024-01-21,México,Treinta y Tres,487,3
+845,2024-10-10,Florianópolis,Cerro Largo,74,3
+846,2024-11-02,Florianópolis,Artigas,418,19
+847,2024-01-08,Santiago,Soriano,295,5
+848,2024-04-11,Asunción,Rocha,397,11
+849,2024-07-06,Córdoba,Cerro Largo,389,12
+850,2023-12-11,Santa Fe,San José,267,16
+851,2024-08-07,Santa Fe,Maldonado,321,7
+852,2024-02-06,La Plata,Rocha,98,16
+853,2024-05-31,Porto Alegre,Flores,209,8
+854,2024-03-04,Rio Grande,Colonia,127,17
+855,2024-01-13,Rosario,Tacuarembó,61,19
+856,2024-07-12,Asunción,San José,303,7
+857,2024-05-13,Curitiba,Treinta y Tres,81,5
+858,2024-10-13,Asunción,Cerro Largo,78,17
+859,2024-07-05,Pelotas,Treinta y Tres,288,5
+860,2024-05-10,Porto Alegre,Colonia,467,8
+861,2024-07-27,Pelotas,Canelones,209,7
+862,2024-03-15,Pelotas,Río Negro,326,2
+863,2024-10-12,Curitiba,Salto,155,5
+864,2024-02-06,México,Soriano,47,6
+865,2024-05-16,Santiago,Tacuarembó,140,2
+866,2024-02-22,Rio Grande,Salto,218,17
+867,2024-06-20,México,Durazno,167,13
+868,2024-06-18,Asunción,Montevideo,384,17
+869,2024-05-31,Santa Fe,Soriano,26,5
+870,2024-08-07,Santiago,Maldonado,476,14
+871,2024-02-17,Curitiba,Florida,116,12
+872,2023-12-08,Porto Alegre,Salto,233,16
+873,2024-08-28,Curitiba,Rivera,463,11
+874,2024-08-14,Pelotas,Tacuarembó,297,13
+875,2024-02-04,Santiago,San José,65,10
+876,2023-12-08,Santa Fe,Artigas,482,9
+877,2024-04-14,Buenos Aires,Soriano,37,12
+878,2024-05-10,Asunción,Florida,267,9
+879,2023-12-16,Rio Grande,Soriano,169,14
+880,2024-03-03,Buenos Aires,Canelones,461,15
+881,2023-12-04,Santa Fe,Montevideo,43,6
+882,2024-11-30,La Plata,Tacuarembó,304,6
+883,2024-05-23,Porto Alegre,Cerro Largo,296,4
+884,2024-05-07,Córdoba,Rocha,298,8
+885,2024-11-28,Rio Grande,Paysandú,144,1
+886,2024-03-21,Florianópolis,San José,186,2
+887,2024-09-21,Asunción,Río Negro,230,8
+888,2024-03-29,Rosario,Tacuarembó,70,5
+889,2024-11-15,Rio Grande,Artigas,472,16
+890,2024-02-15,Porto Alegre,Flores,60,10
+891,2024-08-18,Córdoba,Maldonado,25,14
+892,2024-08-05,Córdoba,Lavalleja,375,8
+893,2024-10-25,Asunción,Canelones,436,2
+894,2024-09-23,Buenos Aires,Rocha,249,1
+895,2024-03-31,Florianópolis,Artigas,124,12
+896,2023-12-02,Asunción,Paysandú,204,17
+897,2024-11-30,Santiago,Río Negro,500,9
+898,2024-02-08,Pelotas,Canelones,325,13
+899,2024-11-22,México,San José,492,11
+900,2024-07-23,Curitiba,Durazno,449,16
+901,2024-11-21,Asunción,Lavalleja,112,2
+902,2024-05-21,Buenos Aires,Flores,106,9
+903,2024-04-02,Florianópolis,Durazno,269,12
+904,2024-03-28,Córdoba,Montevideo,487,8
+905,2024-09-11,Florianópolis,Lavalleja,279,14
+906,2024-04-16,Santiago,Flores,17,2
+907,2024-03-09,Curitiba,Tacuarembó,319,3
+908,2024-09-25,Asunción,Canelones,429,12
+909,2024-11-26,Buenos Aires,Rocha,83,3
+910,2024-04-20,Buenos Aires,Montevideo,484,1
+911,2024-04-23,Buenos Aires,Treinta y Tres,38,15
+912,2024-08-27,La Plata,Salto,111,4
+913,2024-05-25,Buenos Aires,Canelones,107,2
+914,2024-08-17,Curitiba,Cerro Largo,245,10
+915,2024-08-30,Santa Fe,Durazno,318,5
+916,2024-07-09,Pelotas,Colonia,313,17
+917,2024-02-22,Santiago,Cerro Largo,171,7
+918,2024-01-26,Rio Grande,Cerro Largo,244,14
+919,2024-07-05,Rio Grande,Lavalleja,344,10
+920,2024-09-11,Santiago,Montevideo,32,10
+921,2024-03-16,Curitiba,Canelones,337,8
+922,2024-11-13,Rosario,Río Negro,332,5
+923,2024-02-09,Santa Fe,Maldonado,27,3
+924,2024-10-28,Santiago,Canelones,161,7
+925,2024-05-25,La Plata,Rocha,1,11
+926,2024-06-25,Pelotas,San José,196,11
+927,2024-06-08,Buenos Aires,San José,114,14
+928,2024-06-09,Santa Fe,Canelones,489,9
+929,2024-06-26,Santiago,Paysandú,305,10
+930,2024-02-18,Santa Fe,Florida,481,6
+931,2024-05-13,Santa Fe,Canelones,316,8
+932,2024-05-15,Porto Alegre,Colonia,282,9
+933,2023-12-30,Buenos Aires,Canelones,257,13
+934,2024-03-01,Asunción,Durazno,122,15
+935,2024-10-28,Córdoba,Rivera,261,3
+936,2024-04-28,Buenos Aires,Canelones,399,5
+937,2024-10-25,Buenos Aires,Florida,400,16
+938,2024-04-10,Buenos Aires,Paysandú,458,5
+939,2024-11-16,Buenos Aires,Soriano,95,6
+940,2024-03-03,Asunción,Soriano,26,4
+941,2024-02-05,Porto Alegre,Soriano,193,18
+942,2024-10-12,Santa Fe,Rivera,100,11
+943,2024-07-11,Córdoba,Artigas,434,9
+944,2024-04-19,Asunción,Treinta y Tres,15,14
+945,2024-11-25,Pelotas,Soriano,409,12
+946,2024-06-07,Pelotas,Montevideo,374,11
+947,2024-01-14,México,Maldonado,491,13
+948,2024-05-12,Asunción,Soriano,222,16
+949,2024-09-23,Rosario,San José,247,14
+950,2024-09-15,Santa Fe,Artigas,38,4
+951,2024-07-15,Rosario,Durazno,130,6
+952,2024-10-08,Santiago,Maldonado,291,17
+953,2024-01-18,Rio Grande,Rocha,411,9
+954,2024-11-17,Curitiba,Río Negro,418,1
+955,2024-03-29,Rio Grande,Colonia,119,7
+956,2024-03-30,Santiago,Lavalleja,129,2
+957,2024-07-06,Rio Grande,Río Negro,153,2
+958,2024-03-08,Córdoba,Río Negro,246,9
+959,2024-07-22,Buenos Aires,Treinta y Tres,164,6
+960,2024-06-02,Florianópolis,San José,87,18
+961,2024-01-28,Santa Fe,Colonia,205,12
+962,2024-03-19,Córdoba,Treinta y Tres,461,15
+963,2024-03-21,Rio Grande,Maldonado,380,4
+964,2024-06-25,México,Maldonado,401,9
+965,2024-04-02,Curitiba,San José,449,9
+966,2024-06-23,Rio Grande,Salto,83,16
+967,2024-08-09,México,Rivera,35,7
+968,2024-01-29,Santiago,Río Negro,153,7
+969,2024-11-01,Santiago,Durazno,309,3
+970,2024-06-08,Pelotas,Flores,172,2
+971,2024-03-19,Asunción,Lavalleja,477,9
+972,2024-04-28,Curitiba,Montevideo,49,4
+973,2024-03-05,La Plata,Maldonado,157,17
+974,2024-02-15,La Plata,Tacuarembó,376,13
+975,2024-02-12,Santiago,Treinta y Tres,98,6
+976,2024-02-17,Santiago,Rocha,90,2
+977,2024-02-24,Curitiba,Soriano,219,4
+978,2024-02-16,Santa Fe,Maldonado,66,2
+979,2024-07-23,Rosario,Colonia,386,18
+980,2024-10-31,Santiago,Tacuarembó,473,18
+981,2024-06-17,Porto Alegre,San José,165,1
+982,2024-08-13,Porto Alegre,Treinta y Tres,424,5
+983,2024-09-19,Florianópolis,Cerro Largo,399,1
+984,2024-11-03,Santa Fe,Montevideo,450,15
+985,2024-07-03,Córdoba,Salto,368,13
+986,2024-08-09,Asunción,Lavalleja,159,3
+987,2023-12-31,Rosario,Lavalleja,463,19
+988,2024-09-04,Asunción,Durazno,258,17
+989,2024-07-05,Córdoba,Canelones,462,2
+990,2023-12-23,La Plata,Canelones,50,10
+991,2024-03-19,Florianópolis,Flores,361,4
+992,2024-04-13,Santa Fe,Canelones,59,19
+993,2024-09-26,Rio Grande,San José,222,8
+994,2024-11-15,Buenos Aires,Florida,154,19
+995,2024-11-07,Santiago,Colonia,110,3
+996,2023-12-24,Rio Grande,Canelones,167,10
+997,2024-10-19,Asunción,Durazno,191,12
+998,2024-01-04,La Plata,Florida,267,12
+999,2024-08-18,Rosario,Rivera,33,3
+1000,2024-09-08,Córdoba,Lavalleja,2,10

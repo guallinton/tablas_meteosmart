@@ -1,0 +1,201 @@
+id,tipo,fecha,estacion_id,ciudad_id,fuente
+1,Tormenta,2024-09-27,6,19,Meteorología Nacional
+2,Lluvias copiosas,2024-08-28,13,19,Meteorología Nacional
+3,Granizo,2024-07-03,27,16,Meteorología Nacional
+4,Sequía,2024-09-27,3,10,Meteorología Nacional
+5,Granizo,2024-07-05,27,6,Meteorología Nacional
+6,Sequía,2024-11-23,20,16,Meteorología Nacional
+7,Granizo,2024-06-21,3,16,Meteorología Nacional
+8,Granizo,2023-12-08,25,15,Meteorología Nacional
+9,Lluvias copiosas,2024-03-01,2,16,Reportes Locales
+10,Granizo,2024-05-28,2,17,Meteorología Nacional
+11,Sequía,2024-02-25,19,15,Meteorología Nacional
+12,Lluvias copiosas,2024-08-04,2,15,Meteorología Nacional
+13,Lluvias copiosas,2023-12-12,12,8,Reportes Locales
+14,Sequía,2024-02-21,3,7,Reportes Locales
+15,Lluvias copiosas,2024-06-18,13,3,Reportes Locales
+16,Lluvias copiosas,2024-08-09,35,13,Meteorología Nacional
+17,Tormenta,2024-04-13,1,2,Meteorología Nacional
+18,Tormenta,2023-12-17,35,16,Reportes Locales
+19,Sequía,2024-11-26,14,15,Reportes Locales
+20,Sequía,2024-08-30,12,17,Reportes Locales
+21,Granizo,2024-07-02,31,16,Reportes Locales
+22,Tormenta,2024-05-30,15,13,Meteorología Nacional
+23,Lluvias copiosas,2024-06-17,22,1,Reportes Locales
+24,Tormenta,2024-06-06,31,13,Reportes Locales
+25,Sequía,2024-07-02,26,4,Reportes Locales
+26,Lluvias copiosas,2024-08-20,6,2,Meteorología Nacional
+27,Tormenta,2024-11-16,7,14,Meteorología Nacional
+28,Sequía,2024-11-20,8,14,Reportes Locales
+29,Granizo,2023-12-13,23,18,Meteorología Nacional
+30,Tormenta,2024-10-01,7,16,Meteorología Nacional
+31,Sequía,2023-12-20,24,19,Meteorología Nacional
+32,Lluvias copiosas,2024-04-16,8,13,Meteorología Nacional
+33,Lluvias copiosas,2023-12-10,12,6,Meteorología Nacional
+34,Tormenta,2024-10-26,18,11,Meteorología Nacional
+35,Lluvias copiosas,2024-11-13,33,1,Reportes Locales
+36,Granizo,2024-10-03,17,1,Reportes Locales
+37,Sequía,2024-10-10,31,5,Meteorología Nacional
+38,Lluvias copiosas,2024-11-29,27,17,Reportes Locales
+39,Lluvias copiosas,2024-02-08,35,8,Meteorología Nacional
+40,Lluvias copiosas,2024-02-22,30,1,Reportes Locales
+41,Tormenta,2024-06-24,14,17,Meteorología Nacional
+42,Sequía,2024-05-20,22,15,Meteorología Nacional
+43,Lluvias copiosas,2024-11-13,30,8,Meteorología Nacional
+44,Lluvias copiosas,2024-05-23,11,5,Meteorología Nacional
+45,Sequía,2024-08-07,28,3,Reportes Locales
+46,Tormenta,2024-11-09,35,14,Meteorología Nacional
+47,Lluvias copiosas,2024-11-09,3,14,Meteorología Nacional
+48,Sequía,2024-10-22,29,6,Meteorología Nacional
+49,Lluvias copiosas,2024-11-23,9,7,Reportes Locales
+50,Tormenta,2024-04-26,36,2,Reportes Locales
+51,Sequía,2024-09-30,14,5,Reportes Locales
+52,Sequía,2024-03-27,25,4,Reportes Locales
+53,Tormenta,2024-06-04,31,8,Meteorología Nacional
+54,Granizo,2024-08-26,6,16,Meteorología Nacional
+55,Granizo,2024-06-01,20,15,Meteorología Nacional
+56,Sequía,2024-03-20,15,17,Meteorología Nacional
+57,Lluvias copiosas,2024-07-07,30,19,Meteorología Nacional
+58,Lluvias copiosas,2024-03-04,27,12,Reportes Locales
+59,Lluvias copiosas,2024-05-16,29,17,Meteorología Nacional
+60,Sequía,2023-12-11,29,12,Meteorología Nacional
+61,Sequía,2024-05-09,23,7,Meteorología Nacional
+62,Tormenta,2024-01-17,13,10,Reportes Locales
+63,Granizo,2024-07-13,1,2,Meteorología Nacional
+64,Sequía,2024-06-21,29,19,Reportes Locales
+65,Lluvias copiosas,2023-12-25,8,19,Reportes Locales
+66,Tormenta,2024-01-17,9,3,Meteorología Nacional
+67,Tormenta,2024-07-30,14,16,Reportes Locales
+68,Granizo,2024-06-28,36,3,Reportes Locales
+69,Tormenta,2024-11-08,35,9,Meteorología Nacional
+70,Tormenta,2024-09-02,16,6,Reportes Locales
+71,Sequía,2024-05-11,19,14,Meteorología Nacional
+72,Lluvias copiosas,2023-12-12,6,14,Reportes Locales
+73,Granizo,2024-03-01,14,19,Meteorología Nacional
+74,Tormenta,2024-05-09,25,5,Reportes Locales
+75,Tormenta,2024-06-19,37,3,Meteorología Nacional
+76,Sequía,2024-10-27,14,12,Meteorología Nacional
+77,Granizo,2024-02-29,31,5,Reportes Locales
+78,Sequía,2024-10-12,1,1,Meteorología Nacional
+79,Sequía,2024-04-19,2,13,Reportes Locales
+80,Tormenta,2024-01-02,36,8,Meteorología Nacional
+81,Sequía,2024-11-18,22,11,Meteorología Nacional
+82,Granizo,2024-08-13,19,15,Meteorología Nacional
+83,Tormenta,2024-09-26,17,9,Meteorología Nacional
+84,Lluvias copiosas,2024-05-09,30,17,Meteorología Nacional
+85,Tormenta,2024-09-22,15,11,Meteorología Nacional
+86,Lluvias copiosas,2024-10-22,14,15,Meteorología Nacional
+87,Tormenta,2024-07-28,3,2,Meteorología Nacional
+88,Sequía,2024-10-15,3,4,Meteorología Nacional
+89,Sequía,2024-02-28,15,18,Reportes Locales
+90,Sequía,2024-02-29,29,8,Meteorología Nacional
+91,Tormenta,2024-06-27,4,19,Reportes Locales
+92,Sequía,2024-04-12,25,8,Reportes Locales
+93,Tormenta,2024-02-23,8,3,Reportes Locales
+94,Lluvias copiosas,2024-10-03,32,19,Reportes Locales
+95,Lluvias copiosas,2024-08-05,2,15,Meteorología Nacional
+96,Sequía,2024-09-21,20,12,Meteorología Nacional
+97,Lluvias copiosas,2024-07-01,11,5,Reportes Locales
+98,Granizo,2024-05-18,28,15,Meteorología Nacional
+99,Sequía,2024-07-04,31,17,Reportes Locales
+100,Lluvias copiosas,2024-03-17,29,5,Meteorología Nacional
+101,Granizo,2024-09-10,4,11,Meteorología Nacional
+102,Granizo,2024-08-05,17,2,Reportes Locales
+103,Lluvias copiosas,2023-12-09,36,16,Meteorología Nacional
+104,Granizo,2024-11-04,22,18,Meteorología Nacional
+105,Lluvias copiosas,2024-01-16,22,13,Reportes Locales
+106,Tormenta,2024-07-16,11,6,Meteorología Nacional
+107,Lluvias copiosas,2024-10-27,11,14,Meteorología Nacional
+108,Tormenta,2024-08-28,23,17,Reportes Locales
+109,Tormenta,2024-02-06,22,5,Reportes Locales
+110,Granizo,2024-09-14,10,10,Reportes Locales
+111,Granizo,2024-05-23,17,3,Meteorología Nacional
+112,Tormenta,2024-03-24,5,8,Meteorología Nacional
+113,Lluvias copiosas,2024-01-04,9,8,Meteorología Nacional
+114,Lluvias copiosas,2024-05-14,31,5,Reportes Locales
+115,Sequía,2024-10-19,18,5,Meteorología Nacional
+116,Lluvias copiosas,2024-03-11,9,19,Reportes Locales
+117,Sequía,2024-04-23,31,17,Meteorología Nacional
+118,Granizo,2024-05-29,8,19,Meteorología Nacional
+119,Granizo,2024-05-15,25,1,Reportes Locales
+120,Lluvias copiosas,2024-02-03,3,1,Meteorología Nacional
+121,Lluvias copiosas,2024-07-21,9,9,Reportes Locales
+122,Sequía,2024-08-19,10,12,Meteorología Nacional
+123,Lluvias copiosas,2024-03-31,37,10,Reportes Locales
+124,Sequía,2024-10-24,2,7,Meteorología Nacional
+125,Sequía,2024-09-04,13,16,Meteorología Nacional
+126,Tormenta,2024-01-04,27,15,Reportes Locales
+127,Lluvias copiosas,2024-09-27,26,18,Meteorología Nacional
+128,Lluvias copiosas,2024-01-01,9,3,Reportes Locales
+129,Lluvias copiosas,2024-05-30,26,13,Meteorología Nacional
+130,Lluvias copiosas,2024-10-23,8,1,Reportes Locales
+131,Lluvias copiosas,2024-03-23,19,13,Reportes Locales
+132,Tormenta,2024-09-08,7,18,Meteorología Nacional
+133,Lluvias copiosas,2024-06-05,29,4,Reportes Locales
+134,Tormenta,2024-10-27,11,3,Reportes Locales
+135,Lluvias copiosas,2024-01-30,16,11,Reportes Locales
+136,Lluvias copiosas,2024-01-14,15,6,Meteorología Nacional
+137,Granizo,2024-09-12,14,9,Meteorología Nacional
+138,Lluvias copiosas,2024-06-13,36,2,Meteorología Nacional
+139,Sequía,2023-12-05,15,5,Reportes Locales
+140,Lluvias copiosas,2024-01-28,3,1,Reportes Locales
+141,Lluvias copiosas,2024-09-21,19,9,Reportes Locales
+142,Lluvias copiosas,2024-05-31,3,16,Meteorología Nacional
+143,Lluvias copiosas,2024-04-06,10,14,Meteorología Nacional
+144,Sequía,2024-03-12,4,1,Meteorología Nacional
+145,Lluvias copiosas,2024-04-12,18,13,Meteorología Nacional
+146,Tormenta,2024-11-04,36,2,Reportes Locales
+147,Lluvias copiosas,2024-07-04,16,14,Reportes Locales
+148,Tormenta,2023-12-09,33,8,Meteorología Nacional
+149,Granizo,2024-04-12,7,8,Meteorología Nacional
+150,Tormenta,2024-02-01,15,1,Reportes Locales
+151,Sequía,2024-11-02,37,10,Reportes Locales
+152,Tormenta,2024-05-27,24,11,Reportes Locales
+153,Sequía,2024-09-10,9,6,Meteorología Nacional
+154,Granizo,2024-08-14,13,18,Reportes Locales
+155,Lluvias copiosas,2024-06-28,24,3,Reportes Locales
+156,Lluvias copiosas,2024-01-29,3,15,Reportes Locales
+157,Tormenta,2024-07-05,13,9,Reportes Locales
+158,Granizo,2024-01-25,30,11,Meteorología Nacional
+159,Lluvias copiosas,2024-06-11,36,12,Reportes Locales
+160,Lluvias copiosas,2024-09-09,7,13,Reportes Locales
+161,Sequía,2024-02-19,37,9,Meteorología Nacional
+162,Lluvias copiosas,2024-05-24,24,5,Reportes Locales
+163,Granizo,2024-03-17,2,12,Meteorología Nacional
+164,Sequía,2024-02-23,15,6,Meteorología Nacional
+165,Tormenta,2023-12-28,20,19,Meteorología Nacional
+166,Tormenta,2024-05-17,33,10,Reportes Locales
+167,Sequía,2024-10-13,21,1,Reportes Locales
+168,Tormenta,2024-10-02,16,9,Meteorología Nacional
+169,Granizo,2024-08-30,7,15,Meteorología Nacional
+170,Tormenta,2024-11-26,6,6,Reportes Locales
+171,Lluvias copiosas,2023-12-05,28,4,Meteorología Nacional
+172,Granizo,2024-11-16,5,4,Meteorología Nacional
+173,Sequía,2024-10-30,25,2,Meteorología Nacional
+174,Sequía,2024-08-17,32,17,Reportes Locales
+175,Sequía,2023-12-05,12,7,Meteorología Nacional
+176,Granizo,2024-08-23,21,5,Reportes Locales
+177,Tormenta,2024-10-08,23,12,Reportes Locales
+178,Tormenta,2024-06-01,32,18,Reportes Locales
+179,Sequía,2024-03-13,9,19,Meteorología Nacional
+180,Granizo,2024-04-23,8,14,Meteorología Nacional
+181,Granizo,2024-06-01,34,18,Reportes Locales
+182,Sequía,2024-07-22,34,10,Reportes Locales
+183,Sequía,2024-02-29,20,18,Meteorología Nacional
+184,Lluvias copiosas,2024-04-29,30,3,Meteorología Nacional
+185,Granizo,2024-06-01,3,10,Meteorología Nacional
+186,Sequía,2024-01-20,4,17,Reportes Locales
+187,Granizo,2024-09-02,3,12,Reportes Locales
+188,Granizo,2024-01-05,13,10,Reportes Locales
+189,Lluvias copiosas,2024-07-24,9,13,Meteorología Nacional
+190,Lluvias copiosas,2024-11-28,17,15,Reportes Locales
+191,Granizo,2024-07-22,20,5,Reportes Locales
+192,Granizo,2024-07-09,11,16,Reportes Locales
+193,Lluvias copiosas,2024-02-04,16,9,Meteorología Nacional
+194,Lluvias copiosas,2023-12-23,35,16,Reportes Locales
+195,Sequía,2024-05-31,37,19,Reportes Locales
+196,Lluvias copiosas,2024-10-18,1,18,Reportes Locales
+197,Tormenta,2024-01-31,6,18,Meteorología Nacional
+198,Granizo,2024-10-26,23,16,Meteorología Nacional
+199,Granizo,2024-01-21,17,16,Reportes Locales
+200,Lluvias copiosas,2024-06-18,10,2,Reportes Locales

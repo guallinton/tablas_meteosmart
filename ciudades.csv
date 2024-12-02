@@ -1,0 +1,20 @@
+nombre,departamento,latitud,longitud,id,zona_id
+Montevideo,Montevideo,-34.8836,-56.1819,1,3
+Canelones,Canelones,-34.5228,-56.2777,2,3
+Maldonado,Maldonado,-34.9003,-54.9509,3,5
+Colonia,Colonia,-34.4715,-57.8444,4,2
+San José,San José,-34.3378,-56.7139,5,3
+Soriano,Soriano,-33.5288,-58.3105,6,2
+Flores,Flores,-33.5224,-56.8956,7,6
+Florida,Florida,-34.0968,-56.2147,8,6
+Lavalleja,Lavalleja,-34.3753,-55.2417,9,4
+Durazno,Durazno,-33.4131,-56.5,10,6
+Treinta y Tres,Treinta y Tres,-33.23,-54.3833,11,4
+Cerro Largo,Cerro Largo,-32.3667,-54.1667,12,4
+Tacuarembó,Tacuarembó,-31.7333,-55.9833,13,4
+Rivera,Rivera,-30.9054,-55.5507,14,4
+Artigas,Artigas,-30.4,-56.4667,15,1
+Salto,Salto,-31.3833,-57.9667,16,1
+Paysandú,Paysandú,-32.3167,-58.0833,17,1
+Río Negro,Río Negro,-32.7667,-58.0333,18,2
+Rocha,Rocha,-34.4833,-54.3333,19,5
